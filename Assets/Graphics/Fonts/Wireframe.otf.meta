@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 414d64941243add43bc7709023f75ce2
+timeCreated: 1489777370
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: THE WIREFRAME Demo
+  fontNames:
+  - THE WIREFRAME Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
