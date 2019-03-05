@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Pong Main Menu.unity
+- path: Assets/_Scenes/Pong Singleplayer.unity
   isLoaded: 1
   isActive: 1

@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 448}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 234
+  controlID: 2353
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 235
+  controlID: 2427
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 348}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 287
+  controlID: 2354
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -897,9 +897,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 86eeffff
+      m_SelectedIDs: 54370000
+      m_LastClickedID: 14164
+      m_ExpandedIDs: 42f1ffffdcf4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -996,20 +996,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/_Scenes
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets
+  - Assets/_Scenes
   m_LastFoldersGridSize: 69
   m_LastProjectPath: C:\Users\juls8\OneDrive\Documents\GitHub\PongDefenders
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6310000
-    m_LastClickedID: 12758
-    m_ExpandedIDs: 00000000ea31000032320000d6350000d8350000da350000dc350000de350000e0350000e2350000e435000000ca9a3b
+    m_SelectedIDs: e42e0000
+    m_LastClickedID: 12004
+    m_ExpandedIDs: 00000000722e00007e2e0000bc2e00000a3200000c3200000e320000103200001232000014320000163200001832000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1037,7 +1037,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea31000032320000d6350000d8350000da350000dc350000de350000e0350000e2350000e435000000ca9a3b
+    m_ExpandedIDs: 000000007e2e0000bc2e00000a3200000c3200000e320000103200001232000014320000163200001832000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1064,7 +1064,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c4230000d6230000cc230000d0230000da230000e823000034270000b206000004240000ee230000f2230000f02300000a24000006240000f62300000024000000000000f82300000c24000022240000242400001e240000182400000e240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
